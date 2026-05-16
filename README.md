@@ -457,4 +457,3 @@ echo "Final status: $STATUS"
 | WebSocket connects but no events | UUID/str mismatch or late connection | Connect WS *before* triggering the workflow |
 | `"Slack failed: ..."` in result | Slack not configured | Expected if `SLACK_BOT_TOKEN` is not set — runs in dry-run mode |
 | `500 Internal Server Error` | Database connection issue | Verify `DATABASE_URL` and that PostgreSQL is running |
-# testing-nexus
