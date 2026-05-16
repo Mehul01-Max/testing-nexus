@@ -447,7 +447,7 @@ echo "Final status: $STATUS"
 
 ---
 
-## Common Issues & Debugging
+
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
